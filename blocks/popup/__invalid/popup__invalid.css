@@ -1,0 +1,15 @@
+.popup__invalid{
+    display: none;
+    height: 11px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #FF0000;
+    margin: 5px 0 24px 0;
+}
+
+.popup__invalid_is-opened{
+    display: initial;
+}

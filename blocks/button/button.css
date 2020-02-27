@@ -1,0 +1,16 @@
+.button {
+  border: 1px solid white; 
+  display: block;
+  cursor: pointer;
+  color: white;
+  background-color: transparent;
+}
+
+.button:focus {
+  outline-color: greenyellow;
+}
+
+.button.button_valid{
+  color: white;
+  background-color: black;
+}
