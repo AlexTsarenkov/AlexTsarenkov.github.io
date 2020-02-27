@@ -1,6 +1,6 @@
 /* REVIEW Отлично, что код обёрнут в IIFE функцию */
 (function main() {
-  const serverUrl = 'http://95.216.175.5/cohort7/';
+  const serverUrl = 'https://praktikum.tk/cohort7';
   const token = '1f9379f0-3ad1-4693-b8a4-6b89792875ba';
 
   const words = {
