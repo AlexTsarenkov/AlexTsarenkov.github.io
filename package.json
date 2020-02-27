@@ -2,7 +2,7 @@
   "name": "module11_hw",
   "version": "0.0.1",
   "description": "module 11 homework",
-  "main": "script.js",
+  "main": "./src/script.js",
   "scripts": {
     "build": "NODE_ENV=production rimraf dist && webpack --mode production",
     "dev": "NODE_ENV=development webpack-dev-server --mode development --open --watch",
