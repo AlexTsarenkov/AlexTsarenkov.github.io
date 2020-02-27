@@ -1,6 +1,6 @@
 class Card {
-    constructor(fullsizePopUp){
-        this.container = undefined;
+    constructor(container,fullsizePopUp){
+        this.container = container
         this.fullsize = fullsizePopUp;
     }
 

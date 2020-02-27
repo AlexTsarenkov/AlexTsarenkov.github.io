@@ -19,7 +19,7 @@
   const addCardPopUp = new AddCardPopUp(rootContainer, validator);
   const profileEditPopUp = new ProfileEditPopUp(rootContainer, validator);
   const cardFullsizePopUp = new CardFullsizePopUp(rootContainer);
-  const card = new Card(cardFullsizePopUp);
+  const card = new Card(cardElement,cardFullsizePopUp);
   const cardList = new CardList(cardElement, card);
 
   const profileManager = new UserInfo();
