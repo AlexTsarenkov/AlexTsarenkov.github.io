@@ -1,7 +1,7 @@
 # AlexTsarenkov.github.io
 ## Yandex Praktikum module 11 hw
 -----
-[Github io link](https://alextsarenkov.github.io/)
+[Github io link](https://alextsarenkov.github.io/mesto/)
 -----
 ## О проекте. 
 Данный проект является домашней работой по курсу frontend разработки Яндекс.Практикума.
