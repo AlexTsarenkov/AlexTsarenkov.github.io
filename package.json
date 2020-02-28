@@ -1,6 +1,6 @@
 {
   "name": "module11_hw",
-  "homepage": "https://alextsarenkov.github.io/",
+  "homepage": "https://alextsarenkov.github.io/mesto",
   "version": "0.0.1",
   "description": "module 11 homework",
   "main": "./src/script.js",
@@ -18,7 +18,6 @@
   "bugs": {
     "url": "https://github.com/AlexTsarenkov/AlexTsarenkov.github.io/issues"
   },
-  "homepage": "https://github.com/AlexTsarenkov/AlexTsarenkov.github.io#readme",
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.8.4",

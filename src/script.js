@@ -1,6 +1,6 @@
 import './index.css';
-import './images/logo.svg';
 import './images/close.svg';
+
 import Api from './scripts/Api.js';
 import FormValidator from './scripts/FormValidator.js';
 import AddCardPopUp from './scripts/PopUp/AddCardPopUp.js';
